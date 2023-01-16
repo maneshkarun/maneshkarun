@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 Student at Amrita Vishwa Vidyapeetham, Coimbatore.
+- 🌱 I’m currently learning Data Engineering Technologies.
+- 📫 How to reach me: maneshkarun@gmail.com
+
