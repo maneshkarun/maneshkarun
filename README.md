@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Artificial Intelligence & Machine Learning Enthusiast.
-- 🌱 I’m currently learning Data Engineering Technologies.
+- 🌱 I’m currently exploring fine-tuning of LLMs.
 - 📫 How to reach me: maneshkarun@gmail.com
 
 ***
