@@ -1,5 +1,6 @@
-### Hello! 👋
-
+# Hello there! 👋 I'm Manesh
+---
+## 🚀 About me
 <!--
 **maneshkarun/maneshkarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
