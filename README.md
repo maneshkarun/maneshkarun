@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Manesh
-[linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## 🚀 About me
 <!--
 **maneshkarun/maneshkarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
